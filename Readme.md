@@ -59,15 +59,15 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=felix422-master&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix422-master&theme=radical" height="165">
 </p>
 
 ---
 
 ## 🚀 **Top Technologies**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix422-master&layout=compact&theme=radical">
 </p>
 
 ---
