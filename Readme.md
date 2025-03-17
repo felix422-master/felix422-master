@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey there, I'm YOUR_NAME  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey there, I'm Felix  
 </h1>
 
 <p align="center">
@@ -71,15 +71,15 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=felix422-master&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix422-master&theme=dark" height="165">
 </p>
 
 ---
 
 ## 🌟 **Top Technologies**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix422-master&layout=compact&theme=dark">
 </p>
 
 ---
