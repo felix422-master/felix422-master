@@ -1,5 +1,7 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey there, I'm Felix  
+<!-- WELCOME SECTION -->
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  
+  Hey there, I'm <span style="color:#00A67E">YOUR_NAME</span> 👋
 </h1>
 
 <p align="center">
@@ -12,79 +14,65 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 **About Me**  
 💡 **AI-Powered Developer & Tech Enthusiast**  
-🔭 Currently working on **AI-Powered Chatbots & Automation**  
-💻 **9+ years of experience** in full-stack & mobile development  
-💡 Passionate about **AI-driven customer experiences & business automation**  
-📫 Reach me at **your.email@example.com**  
-⚡ Fun fact: **I turn coffee ☕ into AI-powered code 🤖!**  
+🔭 Passionate about **AI-Powered Chatbots, Full-Stack Development & Business Automation**  
+💻 **9+ years of experience** in mobile & web development  
+💡 Love solving **real-world problems** using **AI & automation**  
+📫 Let's connect → **your.email@example.com**  
+⚡ **Fun fact:** I turn coffee ☕ into AI-powered applications 🤖  
 
 ---
 
-## 🛠️ **Tech Stack**  
+## 🛠️ **Tech Stack & Tools**  
 
-### **💻 Frontend & Mobile Development**  
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift_UI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+### 💻 **Frontend & Mobile Development**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,nextjs,vue,tailwind,flutter,materialui,figma" />
 </p>
 
-### **🔧 Backend & API Development**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### 🔧 **Backend & API Development**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,aws,docker,mongodb,postgres" />
 </p>
 
-### **🤖 AI & Machine Learning**  
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-GPT--4-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0174DF?style=for-the-badge&logo=ai&logoColor=white" />
+### 🤖 **AI, Machine Learning & Automation**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,openai,langchain" />
 </p>
 
-### **💳 Secure Payments & API Integration**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Integration-Seamless-orange?style=for-the-badge&logo=api&logoColor=white" />
+### 💳 **Secure Payments & API Integration**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=stripe,paypal,graphql,postman" />
 </p>
 
 ---
 
-## 🎯 **Why Hire Me?**
-✅ **9+ years of experience** in full-stack & mobile development  
-✅ **Seamless AI Integration** – bringing **AI automation** into products  
-✅ **Scalability & Performance** – blazing fast, responsive, and optimized applications  
-✅ **Cybersecurity Focus** – securing applications from threats & vulnerabilities  
-✅ **Reliable & Efficient** – clean, maintainable, and best-practice-driven code  
-✅ **Team Player & Leader** – proactive collaboration and **deadline-driven execution**  
+## 🎯 **Why Work With Me?**  
+✅ **9+ Years Experience** – Mastering full-stack & AI development  
+✅ **Seamless AI Integration** – Bringing **AI automation** into digital products  
+✅ **Performance & Scalability** – Optimized applications for **speed & reliability**  
+✅ **Cybersecurity Awareness** – Strong focus on **secure code & architecture**  
+✅ **Team Player & Leader** – Collaborative, deadline-driven & solution-focused  
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felix422-master&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix422-master&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165">
 </p>
 
 ---
 
-## 🌟 **Top Technologies**
+## 🚀 **Top Technologies**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix422-master&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical">
 </p>
 
 ---
 
-## 🌍 **Let's Connect!**
+## 🌍 **Let's Connect!**  
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -99,4 +87,4 @@
 
 ---
 
-⭐ **If you like what you see, feel free to fork and star this repo!**  
+⭐ **If you love what you see, fork & star this repo!** 🚀  
